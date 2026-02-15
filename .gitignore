@@ -1,0 +1,53 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Spring Boot
+*.pid
+
+# VS Code (optional)
+.vscode/
+
+# Eclipse (optional)
+.classpath
+.project
+.settings/
+
+# NetBeans (optional)
+nbproject/
+dist/
+build/
+
+# Generated files
+*.jar
+*.war
+*.ear
+
+# H2 Database files (if file-based DB is used)
+*.mv.db
+*.trace.db
+*.db
+
+# Lombok (optional)
+.lombok/
